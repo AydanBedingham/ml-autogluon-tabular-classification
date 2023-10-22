@@ -11,7 +11,7 @@ Uses Autogluon to build, train, and test a Tabular classification predictor to d
 - 30 features including radius, texture, perimeter, area, smoothness
 
 ## Outputs
-- malignant or benign
+- target: malignant (0) or benign (1)
 
 # Tasks
 - Load the dataset and perform basic exploratory data analysis
